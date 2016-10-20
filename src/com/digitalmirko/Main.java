@@ -5,7 +5,7 @@ package com.digitalmirko;
  of $10,000.00 with an interest Rate of 2, 3, 4, 5, 6, 7 and 8 percent
  then print the results to the console window.
 
- Challenge part2:
+ Challenge part 2:
  Modify the for statement above to do the same thing as shown but to start from 8% and work back to 2%
 
  */
